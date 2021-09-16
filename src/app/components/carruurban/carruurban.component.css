@@ -1,0 +1,16 @@
+#carruurban col-lg-4{
+    padding: 25px;
+    margin: 0 !important;
+  }
+  
+  
+  #carruurban img{
+  
+  
+    
+    width: auto; 
+    height:350px;
+  }
+  #carruurban img:hover{
+    border: 5px solid white;
+  }

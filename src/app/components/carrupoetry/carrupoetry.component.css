@@ -1,0 +1,16 @@
+#carrupoetry col-lg-4{
+  padding: 25px;
+  margin: 0 !important;
+}
+
+
+#carrupoetry img{
+
+
+  
+  width: auto; 
+  height:350px;
+}
+#carrupoetry img:hover{
+  border: 5px solid white;
+}

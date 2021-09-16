@@ -1,0 +1,9 @@
+.fondo{
+    background-image: url('../../src/assets/images/fondo_final2_web.png');
+    image-resolution: 75%;
+
+}
+.margen{margin-bottom: 3rem;}
+.margen2{margin-top: auto !important;
+    padding-top: 10rem !important;
+}

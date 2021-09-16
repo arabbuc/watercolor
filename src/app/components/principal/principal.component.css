@@ -1,0 +1,18 @@
+.tamano{ 
+    width: 500px;
+    height: auto;
+    cursor: pointer;
+    position: relative;
+    margin-right: 1em 1em 1em 1em;
+}
+.margen{
+    margin-left: 60px;
+}
+.portfolio-item {
+    cursor: pointer;
+    position: relative;
+    display: block;
+    max-width: 25rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+  }
